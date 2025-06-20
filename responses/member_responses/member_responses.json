@@ -1,0 +1,17 @@
+{
+  "19558-1": "Yes, the deployment schedule has been coordinated with DevOps and shared with the team.",
+  "19558-2": "Was this supposed to be my job?",
+  "19558-3": "Yes I did, but i am not done yet. I will update you by EOD.",
+  
+  "19559-1": "Test cases are written and pushed to the QA branch.",
+  "19559-2": "There are no blockers as of now. Everything is on track.",
+  "19559-3": "QA should be completed by EOD tomorrow.",
+
+  "19557-1": "I’ve addressed all the review comments and pushed the final commit.",
+  "19557-2": "No blockers reported in the code review process.",
+  "19557-3": "Test scenarios are listed. Waiting for approval to begin execution.",
+
+  "19556-1": "Updated some cases here and there.",
+  "19556-2": "No blockers currently, but I may need UI access later this week.",
+  "19556-3": "Testing progress is around 70%. I’ll update the report by end of day."
+}

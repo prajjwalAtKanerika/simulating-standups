@@ -1,0 +1,22 @@
+[
+  {
+    "ticket_id": "19558",
+    "assigned_to": "Bala Venugopal",
+    "action_items": "1. Confirm the deployment schedule and any necessary steps for the release. (Assignee: Bala Venugopal)\n2. Ensure all documentation related to the Test Task is updated and accessible for future reference. (Assignee: Bala Venugopal)\n3. Review any feedback from the QA process to identify potential improvements for future tasks. (Assignee: Team)"
+  },
+  {
+    "ticket_id": "19559",
+    "assigned_to": "Zaiduddin Shaik",
+    "action_items": "1. Zaiduddin Shaik to prepare the necessary test cases for the bug identified in the ticket and ensure they are ready for QA review.\n2. Team to discuss any potential blockers or additional information needed for QA during the stand-up.\n3. Zaiduddin Shaik to provide an update on the expected timeline for QA completion during the next stand-up."
+  },
+  {
+    "ticket_id": "19557",
+    "assigned_to": "Vishal Rameshkumar Hotwani",
+    "action_items": "1. **Vishal Rameshkumar Hotwani**: Address any feedback from the code review for the \"Test User Story\" ticket and make necessary updates.\n\n2. **Team**: Review the current status of the code review process and identify any blockers that may delay the completion of the ticket.\n\n3. **Vishal Rameshkumar Hotwani**: Prepare for potential testing scenarios based on the user story once the code review is complete."
+  },
+  {
+    "ticket_id": "19556",
+    "assigned_to": "Abhinav Chowdary Mallampati",
+    "action_items": "1. **Review Current Test Cases** - Abhinav Chowdary Mallampati to review and update the existing test cases for Epic 1 to ensure they align with the latest requirements.\n\n2. **Identify Blockers** - Abhinav to identify any blockers or challenges faced during testing and share them with the team for support.\n\n3. **Update Testing Progress** - Abhinav to provide an update on the testing progress and any completed tasks during the next stand-up."
+  }
+]

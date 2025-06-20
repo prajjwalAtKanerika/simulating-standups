@@ -1,0 +1,98 @@
+[
+  {
+    "ticket_id": "19558",
+    "action_id": "19558-1",
+    "assigned_to": "Bala Venugopal",
+    "action_item": "Confirm the deployment schedule and any necessary steps for the release. (Assignee: Bala Venugopal)",
+    "response": "Yes, the deployment schedule has been coordinated with DevOps and shared with the team.",
+    "validation": "\u2705 Completed"
+  },
+  {
+    "ticket_id": "19558",
+    "action_id": "19558-2",
+    "assigned_to": "Bala Venugopal",
+    "action_item": "2. Ensure all documentation related to the Test Task is updated and accessible for future reference. (Assignee: Bala Venugopal)",
+    "response": "Was this supposed to be my job?",
+    "validation": "\u274c Unclear"
+  },
+  {
+    "ticket_id": "19558",
+    "action_id": "19558-3",
+    "assigned_to": "Bala Venugopal",
+    "action_item": "3. Review any feedback from the QA process to identify potential improvements for future tasks. (Assignee: Team)",
+    "response": "No major QA feedback this time, but we\u00e2\u20ac\u2122ll review it in the next retrospective.",
+    "validation": "\u2705 Completed"
+  },
+  {
+    "ticket_id": "19559",
+    "action_id": "19559-1",
+    "assigned_to": "Zaiduddin Shaik",
+    "action_item": "Zaiduddin Shaik to prepare the necessary test cases for the bug identified in the ticket and ensure they are ready for QA review.",
+    "response": "Test cases are written and pushed to the QA branch.",
+    "validation": "\u2705 Completed"
+  },
+  {
+    "ticket_id": "19559",
+    "action_id": "19559-2",
+    "assigned_to": "Zaiduddin Shaik",
+    "action_item": "2. Team to discuss any potential blockers or additional information needed for QA during the stand-up.",
+    "response": "There are no blockers as of now. Everything is on track.",
+    "validation": "\u2705 Completed"
+  },
+  {
+    "ticket_id": "19559",
+    "action_id": "19559-3",
+    "assigned_to": "Zaiduddin Shaik",
+    "action_item": "3. Zaiduddin Shaik to provide an update on the expected timeline for QA completion during the next stand-up.",
+    "response": "QA should be completed by EOD tomorrow.",
+    "validation": "\u2705 Completed"
+  },
+  {
+    "ticket_id": "19557",
+    "action_id": "19557-1",
+    "assigned_to": "Vishal Rameshkumar Hotwani",
+    "action_item": "Vishal Rameshkumar Hotwani: Address any feedback from the code review for the \"Test User Story\" ticket and make necessary updates.",
+    "response": "I\u00e2\u20ac\u2122ve addressed all the review comments and pushed the final commit.",
+    "validation": "\u2705 Completed"
+  },
+  {
+    "ticket_id": "19557",
+    "action_id": "19557-2",
+    "assigned_to": "Vishal Rameshkumar Hotwani",
+    "action_item": "2. Team: Review the current status of the code review process and identify any blockers that may delay the completion of the ticket.",
+    "response": "No blockers reported in the code review process.",
+    "validation": "\u2705 Completed"
+  },
+  {
+    "ticket_id": "19557",
+    "action_id": "19557-3",
+    "assigned_to": "Vishal Rameshkumar Hotwani",
+    "action_item": "3. Vishal Rameshkumar Hotwani: Prepare for potential testing scenarios based on the user story once the code review is complete.",
+    "response": "Test scenarios are listed. Waiting for approval to begin execution.",
+    "validation": "\ud83d\udd50 In Progress"
+  },
+  {
+    "ticket_id": "19556",
+    "action_id": "19556-1",
+    "assigned_to": "Abhinav Chowdary Mallampati",
+    "action_item": "Review Current Test Cases - Abhinav Chowdary Mallampati to review and update the existing test cases for Epic 1 to ensure they align with the latest requirements.",
+    "response": "Updated some cases here and there.",
+    "validation": "\ud83d\udd50 In Progress"
+  },
+  {
+    "ticket_id": "19556",
+    "action_id": "19556-2",
+    "assigned_to": "Abhinav Chowdary Mallampati",
+    "action_item": "2. Identify Blockers - Abhinav to identify any blockers or challenges faced during testing and share them with the team for support.",
+    "response": "No blockers currently, but I may need UI access later this week.",
+    "validation": "\ud83d\udd50 In Progress"
+  },
+  {
+    "ticket_id": "19556",
+    "action_id": "19556-3",
+    "assigned_to": "Abhinav Chowdary Mallampati",
+    "action_item": "3. Update Testing Progress - Abhinav to provide an update on the testing progress and any completed tasks during the next stand-up.",
+    "response": "Testing progress is around 70%. I\u00e2\u20ac\u2122ll update the report by end of day.",
+    "validation": "\ud83d\udd50 In Progress"
+  }
+]

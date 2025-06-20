@@ -1,0 +1,74 @@
+[
+  {
+    "ticket_id": "19558",
+    "assigned_to": "Bala Venugopal",
+    "action_id": "19558-1",
+    "prompt": "Hi Bala Venugopal, in our last stand-up, you were assigned the following task:\n\"Confirm the deployment schedule and any necessary steps for the release. (Assignee: Bala Venugopal)\"\nCan you please give a quick update?"
+  },
+  {
+    "ticket_id": "19558",
+    "assigned_to": "Bala Venugopal",
+    "action_id": "19558-2",
+    "prompt": "Hi Bala Venugopal, in our last stand-up, you were assigned the following task:\n\"2. Ensure all documentation related to the Test Task is updated and accessible for future reference. (Assignee: Bala Venugopal)\"\nCan you please give a quick update?"
+  },
+  {
+    "ticket_id": "19558",
+    "assigned_to": "Bala Venugopal",
+    "action_id": "19558-3",
+    "prompt": "Hi Bala Venugopal, in our last stand-up, you were assigned the following task:\n\"3. Review any feedback from the QA process to identify potential improvements for future tasks. (Assignee: Team)\"\nCan you please give a quick update?"
+  },
+  {
+    "ticket_id": "19559",
+    "assigned_to": "Zaiduddin Shaik",
+    "action_id": "19559-1",
+    "prompt": "Hi Zaiduddin Shaik, in our last stand-up, you were assigned the following task:\n\"Zaiduddin Shaik to prepare the necessary test cases for the bug identified in the ticket and ensure they are ready for QA review.\"\nCan you please give a quick update?"
+  },
+  {
+    "ticket_id": "19559",
+    "assigned_to": "Zaiduddin Shaik",
+    "action_id": "19559-2",
+    "prompt": "Hi Zaiduddin Shaik, in our last stand-up, you were assigned the following task:\n\"2. Team to discuss any potential blockers or additional information needed for QA during the stand-up.\"\nCan you please give a quick update?"
+  },
+  {
+    "ticket_id": "19559",
+    "assigned_to": "Zaiduddin Shaik",
+    "action_id": "19559-3",
+    "prompt": "Hi Zaiduddin Shaik, in our last stand-up, you were assigned the following task:\n\"3. Zaiduddin Shaik to provide an update on the expected timeline for QA completion during the next stand-up.\"\nCan you please give a quick update?"
+  },
+  {
+    "ticket_id": "19557",
+    "assigned_to": "Vishal Rameshkumar Hotwani",
+    "action_id": "19557-1",
+    "prompt": "Hi Vishal Rameshkumar Hotwani, in our last stand-up, you were assigned the following task:\n\"Vishal Rameshkumar Hotwani: Address any feedback from the code review for the \"Test User Story\" ticket and make necessary updates.\"\nCan you please give a quick update?"
+  },
+  {
+    "ticket_id": "19557",
+    "assigned_to": "Vishal Rameshkumar Hotwani",
+    "action_id": "19557-2",
+    "prompt": "Hi Vishal Rameshkumar Hotwani, in our last stand-up, you were assigned the following task:\n\"2. Team: Review the current status of the code review process and identify any blockers that may delay the completion of the ticket.\"\nCan you please give a quick update?"
+  },
+  {
+    "ticket_id": "19557",
+    "assigned_to": "Vishal Rameshkumar Hotwani",
+    "action_id": "19557-3",
+    "prompt": "Hi Vishal Rameshkumar Hotwani, in our last stand-up, you were assigned the following task:\n\"3. Vishal Rameshkumar Hotwani: Prepare for potential testing scenarios based on the user story once the code review is complete.\"\nCan you please give a quick update?"
+  },
+  {
+    "ticket_id": "19556",
+    "assigned_to": "Abhinav Chowdary Mallampati",
+    "action_id": "19556-1",
+    "prompt": "Hi Abhinav Chowdary Mallampati, in our last stand-up, you were assigned the following task:\n\"Review Current Test Cases - Abhinav Chowdary Mallampati to review and update the existing test cases for Epic 1 to ensure they align with the latest requirements.\"\nCan you please give a quick update?"
+  },
+  {
+    "ticket_id": "19556",
+    "assigned_to": "Abhinav Chowdary Mallampati",
+    "action_id": "19556-2",
+    "prompt": "Hi Abhinav Chowdary Mallampati, in our last stand-up, you were assigned the following task:\n\"2. Identify Blockers - Abhinav to identify any blockers or challenges faced during testing and share them with the team for support.\"\nCan you please give a quick update?"
+  },
+  {
+    "ticket_id": "19556",
+    "assigned_to": "Abhinav Chowdary Mallampati",
+    "action_id": "19556-3",
+    "prompt": "Hi Abhinav Chowdary Mallampati, in our last stand-up, you were assigned the following task:\n\"3. Update Testing Progress - Abhinav to provide an update on the testing progress and any completed tasks during the next stand-up.\"\nCan you please give a quick update?"
+  }
+]
